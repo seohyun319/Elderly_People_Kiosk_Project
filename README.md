@@ -34,11 +34,9 @@ MovieLast는 Poster 클래스의 static 변수 moviePhoto, movieName, movieTime 
 4) 기능 설명
 
 ![image](https://user-images.githubusercontent.com/76686872/122488186-e9301600-d017-11eb-8868-77a9931f221f.png)
-
 MovieFirst. 왼쪽의 예매하기 버튼은 다음 클래스인 Poster 클래스로 연결. 도움말 버튼은 다음 사진과 연결.
 
-![image](https://user-images.githubusercontent.com/76686872/122488300-25fc0d00-d018-11eb-8549-af479bb2f73d.png)
-
+![image](https://user-images.githubusercontent.com/76686872/122489185-08c83e00-d01a-11eb-829e-699b6ae61ee6.png)
 직관적으로 보이도록 각 순서에 번호 배치, 그림보다 글씨를 크게 함.
 
 
@@ -51,17 +49,19 @@ Poster의 영화를 누르면 뜨는 팝업창. 잦은 화면 전환에 혼란�
 
 ![image](https://user-images.githubusercontent.com/76686872/122488218-f3eaab00-d017-11eb-94af-bc7705363a8a.png)
 MovieMiddle. 상단에 영화 포스터가 나와 연속된 단계라는 인식을 심어줌. 우대 / 성인 / 청소년에 따라 선택 가능
-![image](https://user-images.githubusercontent.com/76686872/122488702-fd284780-d018-11eb-8767-bb95ad870150.png)
+![image](https://user-images.githubusercontent.com/76686872/122489193-0c5bc500-d01a-11eb-9edd-2682f17825a7.png)
 '인원을 선택해주세요' 팝업
-![image](https://user-images.githubusercontent.com/76686872/122488756-16c98f00-d019-11eb-8054-f58e7840bb8b.png)
+![image](https://user-images.githubusercontent.com/76686872/122489197-0e258880-d01a-11eb-8936-4f63f7ce3f76.png)
 도움말 버튼
 
 ![image](https://user-images.githubusercontent.com/76686872/122488222-f64d0500-d017-11eb-9f13-5267f965e7f6.png)
 SelectSeats
-![image](https://user-images.githubusercontent.com/76686872/122488785-2648d800-d019-11eb-84b5-c505fd3847a0.png)
+
+![image](https://user-images.githubusercontent.com/76686872/122489200-11b90f80-d01a-11eb-8b42-d9daf969bab0.png)
 인원수만큼 선택하지 않았을 때
-![image](https://user-images.githubusercontent.com/76686872/122488809-32349a00-d019-11eb-9aec-872666c93a95.png)
+![image](https://user-images.githubusercontent.com/76686872/122489206-1382d300-d01a-11eb-81be-ded4865276e8.png)
 인원수를 초과해서 선택했을 때
+
 
 ![image](https://user-images.githubusercontent.com/76686872/122488224-f816c880-d017-11eb-9d0d-d2150a6afacb.png)
 MovieLast

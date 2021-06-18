@@ -32,10 +32,15 @@ MovieLast는 Poster 클래스의 static 변수 moviePhoto, movieName, movieTime 
 
 
 4) 기능 설명
+
 ![image](https://user-images.githubusercontent.com/76686872/122488186-e9301600-d017-11eb-8868-77a9931f221f.png)
+
 MovieFirst. 왼쪽의 예매하기 버튼은 다음 클래스인 Poster 클래스로 연결. 도움말 버튼은 다음 사진과 연결.
+
 ![image](https://user-images.githubusercontent.com/76686872/122488300-25fc0d00-d018-11eb-8549-af479bb2f73d.png)
+
 직관적으로 보이도록 각 순서에 번호 배치, 그림보다 글씨를 크게 함.
+
 
 ![image](https://user-images.githubusercontent.com/76686872/122488207-ef25f700-d017-11eb-8f38-db492063a341.png)
 Poster. 글을 안 읽고 포스터만 보고 고를 수 있도록 영화 제목 글씨보다는 포스터 위주로 배치. 원하는 영화를 찾아야 하는 불편함을 덜기 위하여 예매율 높은 순으로 배치.
